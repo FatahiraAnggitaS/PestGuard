@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="htdocs/logo.png" alt="Logo PestGuard" width="120">
+  <img src="logo.png" alt="Logo PestGuard" width="120">
 </p>
 
 <h1 align="center">PestGuard</h1>
